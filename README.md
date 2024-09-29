@@ -74,22 +74,20 @@ Example Usage:-
 Here we are using a sample address.
 
 Mint 100 tokens to Address:
-
 Call the mint function with:
 
-address: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+     address: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
 
-value: 1000
+    value: 1000
 
 This will increase the total supply by 1000 tokens and credit them to the address.
 
 Burn 500 tokens from Address:
-
 Call the burn function with:
 
-address: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+    address: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
 
-value: 500
+    value: 500
 
 If the address has at least 500 tokens, the total supply will decrease by 500, and the address’s balance will be updated accordingly.
 
