@@ -39,7 +39,6 @@ contract MyToken {
         }
         
     }
-
 }
 ````
 Now save the file.
