@@ -1,4 +1,4 @@
-### _Token creation:-_
+# _Token creation:-_
 
 This Solidity program is a simple "Token_creation" program that demonstrates the basic syntax and functionality of the Solidity programming language.It defines a basic custom token called "Ruchi" with the abbreviation "MTA". It demonstrates essential token functionalities like minting and burning tokens, and allows for the management of token balances for different Ethereum addresses. This project serves as a starting point for creating your own token on the Ethereum blockchain.
 
