@@ -16,7 +16,7 @@ To run this program, you can use Remix IDE, an online Solidity IDE. To get start
 Once you are on the Remix website, follow the following steps:-
 Create a new file named Token_Creation.sol.
 Copy and paste the following code into the file:
-````
+```javascript
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 contract MyToken {
@@ -40,7 +40,7 @@ contract MyToken {
         
     }
 }
-````
+```
 Now save the file.
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. 
 Make sure the "Compiler" option is set to "0.8.0" (or another compatible version), and then click on the "Compile Token_Creation.sol" button.
