@@ -1,15 +1,15 @@
-#Token creation:-
+### _Token creation:-_
 
 This Solidity program is a simple "Token_creation" program that demonstrates the basic syntax and functionality of the Solidity programming language.It defines a basic custom token called "Ruchi" with the abbreviation "MTA". It demonstrates essential token functionalities like minting and burning tokens, and allows for the management of token balances for different Ethereum addresses. This project serves as a starting point for creating your own token on the Ethereum blockchain.
 
-#Description
+## _Description_
 This program is a simple token contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. This project contains some basic properties and two function like:-
 Token Properties: Stores the name, abbreviation and total supply of the token.
 Mint Function: Allows increasing the total supply and adding tokens to an address of the Ethereum.
 Burn Function: Allows reducing the total supply by removing tokens from an address.
 Balance Management: Keeps track of token balances using a mapping.
 
-#Getting Started
+## _Getting Started_
 Executing program
 To run this program, you can use Remix IDE, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
@@ -70,8 +70,8 @@ address: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
 value: 500
 If the address has at least 500 tokens, the total supply will decrease by 500, and the address’s balance will be updated accordingly.
 
-#Authors
+## _Authors_
 Richa Singh(richasingh2427@gmail.com)
 
-#License
+## _License_
 This project is licensed under the MIT License
